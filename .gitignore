@@ -16,6 +16,7 @@
 /config/database.yml
 /.ideas/*
 /.env
+db/schema.rb
 
 
 # Ignore Byebug command history file.
